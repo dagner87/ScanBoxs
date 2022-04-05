@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "orderScan",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
